@@ -1,0 +1,9 @@
+```mermaid
+sequenceDiagram
+
+	participant U as usuário
+	participant P as plataforma
+	participant B as biblioteca
+
+
+U->>P: Usuário pesquisa o jogo
